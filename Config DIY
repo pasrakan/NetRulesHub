@@ -54,7 +54,6 @@ https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainlan
 [rewrite_remote]
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/rewrite_general.conf, tag=general, enabled=true
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/rewrite_AD.conf, tag=ads, enabled=true
-https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=BoxJs, update-interval=86400, enabled=true
 
 [server_local]
 
