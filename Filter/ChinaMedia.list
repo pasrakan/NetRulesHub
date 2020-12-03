@@ -1,0 +1,82 @@
+# > Bilibili
+USER-AGENT,bili*,China
+USER-AGENT,Bilibili*,China
+HOST-SUFFIX,acg.tv,China
+HOST-SUFFIX,acgvideo.com,China
+HOST-SUFFIX,b23.tv,China
+HOST-SUFFIX,biliapi.com,China
+HOST-SUFFIX,biliapi.net,China
+HOST-SUFFIX,bilibili.com,China
+HOST-SUFFIX,biligame.com,China
+HOST-SUFFIX,biligame.net,China
+HOST-SUFFIX,bilivideo.com,China
+HOST-SUFFIX,hdslb.com,China
+HOST-SUFFIX,im9.com,China
+HOST-SUFFIX,smtcdns.net,China
+
+# > iQiyi
+USER-AGENT,QIYI*,China
+USER-AGENT,iQiYi*,China
+USER-AGENT,PPStream*,China
+USER-AGENT,QYPlayer*,China
+HOST-SUFFIX,iqiyi.com,China
+HOST-SUFFIX,iqiyipic.com,China
+HOST-SUFFIX,qy.net,China
+HOST-SUFFIX,71.am,China
+
+# > Kugou & Kuwo
+HOST-SUFFIX,kugou.com,China
+USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,China
+HOST-SUFFIX,kuwo.cn,China
+HOST-SUFFIX,koowo.com,China
+
+# > Letv
+HOST-SUFFIX,api.mob.app.letv.com,China
+HOST-SUFFIX,letv.com,China
+
+# > MGTV
+USER-AGENT,MGTV*,China
+HOST-SUFFIX,hitv.com,China
+HOST-SUFFIX,hunantv.com,China
+HOST-SUFFIX,mgtv.com,China
+
+# > MOOMusic
+USER-AGENT,MOO*,China
+USER-AGENT,TencentMidasConnect*,China
+
+# > Netease Music
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,China
+USER-AGENT,NeteaseMusic*,China
+HOST,apm.music.163.com,China
+HOST,apm3.music.163.com,China
+HOST,interface.music.163.com,China
+HOST,interface3.music.163.com,China
+HOST,music.126.net,China
+HOST,music.163.com,China
+
+# > QQMusic
+USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,China
+USER-AGENT,QQMusic*,China
+HOST-SUFFIX,*music.qq.com,China
+HOST-SUFFIX,y.qq.com,China
+HOST,aqqmusic.tc.qq.com,China
+
+# > Tencent Video
+USER-AGENT,live4iphone*,China
+USER-AGENT,qqlive4iphone*,China
+USER-AGENT,TencentMidasConnect*,China
+HOST-SUFFIX,v.qq.com,China
+HOST-SUFFIX,video.qq.com,China
+
+# > Xiami Music
+USER-AGENT,walkman*,China
+USER-AGENT,xiami*,China
+HOST-SUFFIX,xiami.com,China
+HOST-SUFFIX,xiami.net,China
+
+# > Youku
+USER-AGENT,Youku*,China
+USER-AGENT,%E4%BC%98%E9%85%B7*,China
+HOST-SUFFIX,soku.com,China
+HOST-SUFFIX,youku.com,China
+HOST-SUFFIX,ykimg.com,China
