@@ -161,6 +161,8 @@ HOST-SUFFIX,scdn.co,Outside
 HOST-SUFFIX,spoti.fi,Outside
 HOST-SUFFIX,spotify.com,Outside
 HOST-SUFFIX,spotifycdn.net,Outside
+HOST-SUFFIX,overcast.fm,Outside
+HOST-SUFFIX,anchor.fm,Outside
 
 # > ViuTV
 USER-AGENT,ViuTV*,Outside
