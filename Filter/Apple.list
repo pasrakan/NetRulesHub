@@ -30,14 +30,25 @@ HOST-SUFFIX,me.com,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 HOST,api.smoot.apple.cn,Apple
 
-# > Apple News and Apple Map TOMTOM Version
-USER-AGENT,AppleNews*,Apple
-USER-AGENT,com.apple.news*,Apple
-HOST,gspe1-ssl.ls.apple.com,Apple
-USER-AGENT,News*,Apple
-HOST,apple.comscoreresearch.com,Apple
-HOST,gateway.icloud.com,Apple
-HOST,news-client.apple.com,Apple
-HOST,news-edge.apple.com,Apple
-HOST,news-events.apple.com,Apple
-HOST-SUFFIX,apple.news,Apple
+# > Apple News
+DOMAIN,gateway.icloud.com,PROXY
+DOMAIN,gspe1-ssl.ls.apple.com,PROXY
+DOMAIN-SUFFIX,apple.news,PROXY
+DOMAIN,news-assets.apple.com,PROXY
+DOMAIN,news-client.apple.com,PROXY
+DOMAIN,news-edge.apple.com,PROXY
+DOMAIN,news-events.apple.com,PROXY
+DOMAIN,apple.comscoreresearch.com,PROXY
+
+;# > Apple News and Apple Map TOMTOM Version
+;USER-AGENT,AppleNews*,Apple
+;USER-AGENT,com.apple.news*,Apple
+;HOST,gspe1-ssl.ls.apple.com,Apple
+;USER-AGENT,News*,Apple
+;HOST,apple.comscoreresearch.com,Apple
+;HOST,gateway.icloud.com,Apple
+;HOST,news-client.apple.com,Apple
+;HOST,news-edge.apple.com,Apple
+;HOST,news-events.apple.com,Apple
+;HOST-SUFFIX,apple.news,Apple
+
