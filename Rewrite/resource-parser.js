@@ -1,4 +1,5 @@
 /** 
+https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
 ☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-03-01 18:29⟧
 ----------------------------------------------------------
 🛠 发现 𝐁𝐔𝐆 请反馈: @Shawn_KOP_bot
