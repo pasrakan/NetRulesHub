@@ -51,3 +51,4 @@ DOMAIN,apple.comscoreresearch.com,PROXY
 ;HOST,news-edge.apple.com,Apple
 ;HOST,news-events.apple.com,Apple
 ;HOST-SUFFIX,apple.news,Apple
+HOST-SUFFIX,deezer.com,Apple
