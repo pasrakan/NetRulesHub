@@ -52,7 +52,6 @@ final, Others
 [rewrite_local]
 
 [task_local]
-;2 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/task/master/52pj.png,enabled=false
 
 [http_backend]
 
