@@ -29,10 +29,7 @@ https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/Ch
 [rewrite_remote]
 https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.conf,tag=Spotify,enabled=true
 https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf,,tag=Youtube,enabled=true
-
-;Busuu
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Busuu.js,tag=Busuu,enabled=true
-;Noted
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/noteb.js,tag=Noted,enabled=true
 
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Rewrite/rewrite_featured.conf, tag=featured, enabled=true
