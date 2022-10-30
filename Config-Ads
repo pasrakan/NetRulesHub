@@ -40,8 +40,7 @@ https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/noteb.js,tag=n
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Rewrite/rewrite_featured.conf, tag=featured, enabled=true
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Rewrite/rewrite_general.conf, tag=general, enabled=true
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Rewrite/rewrite_ad.conf, tag=adblock, enabled=true
-https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Rewrite/rewrite_cookie.conf, tag=getcookie, enabled=false
-https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=BoxJs, update-interval=86400, enabled=false
+https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=BoxJs, enabled=false
 
 [server_local]
 
@@ -58,7 +57,7 @@ final, Others
 [rewrite_local]
 
 [task_local]
-2 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/task/master/52pj.png,enabled=false
+;2 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/task/master/52pj.png,enabled=false
 
 [http_backend]
 
