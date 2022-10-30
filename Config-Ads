@@ -34,8 +34,6 @@ https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf,
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Busuu.js,tag=Busuu,enabled=false
 ;Noted
 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/noteb.js,tag=Noted,enabled=false
-;Airmail,Bear
-https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/noteb.js,tag=noteb,enabled=false
 
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Rewrite/rewrite_featured.conf, tag=featured, enabled=true
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Rewrite/rewrite_general.conf, tag=general, enabled=true
