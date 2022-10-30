@@ -24,7 +24,7 @@ static=Others, Outside, China, img-url=https://raw.githubusercontent.com/Amberwi
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/Hijack.list, tag=Hijacking, enabled=true
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/Ad.list, tag=AdBlock, enabled=true
 https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/Outside.list, tag=Outside, enabled=true
-https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/China.list, tag=China, enabled=true
+https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/China.list, tag=China, enabled=false
 
 [rewrite_remote]
 https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.conf,tag=Spotify,enabled=true
