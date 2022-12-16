@@ -13,18 +13,18 @@ server=119.28.28.28
 server=8.8.8.8
 
 [policy]
-static=Outside, direct, proxy, img-url=https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/IconSet/Outside.png
-static=China, direct, proxy, img-url=https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/IconSet/Mainland.png
-static=Others, Outside, China, img-url=https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/IconSet/Others.png
+static=Outside, direct, proxy, img-url=https://raw.githubusercontent.com/pasrakan/QuantumultX-amateur/master/IconSet/Outside.png
+static=China, direct, proxy, img-url=https://raw.githubusercontent.com/pasrakan/QuantumultX-amateur/master/IconSet/Mainland.png
+static=Others, Outside, China, img-url=https://raw.githubusercontent.com/pasrakan/QuantumultX-amateur/master/IconSet/Others.png
 
 [server_remote]
 
 
 [filter_remote]
-https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/Hijack.list, tag=Hijacking, enabled=true
-https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/Ad.list, tag=AdBlock, enabled=true
-https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/Outside.list, tag=Outside, enabled=true
-https://raw.githubusercontent.com/Amberwill/QuantumultX-amateur/master/Filter/China.list, tag=China, enabled=false
+https://raw.githubusercontent.com/pasrakan/QuantumultX-amateur/master/Filter/Hijack.list, tag=Hijacking, enabled=true
+https://raw.githubusercontent.com/pasrakan/QuantumultX-amateur/master/Filter/Ad.list, tag=AdBlock, enabled=true
+https://raw.githubusercontent.com/pasrakan/QuantumultX-amateur/master/Filter/Outside.list, tag=Outside, enabled=true
+https://raw.githubusercontent.com/pasrakan/QuantumultX-amateur/master/Filter/China.list, tag=China, enabled=false
 
 [rewrite_remote]
 https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.conf,tag=Spotify,enabled=true
