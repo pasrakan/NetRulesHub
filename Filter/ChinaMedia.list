@@ -57,7 +57,7 @@ HOST,music.163.com,China
 # > QQMusic
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,China
 USER-AGENT,QQMusic*,China
-HOST-SUFFIX,*music.qq.com,China
+HOST-SUFFIX,music.qq.com,China
 HOST-SUFFIX,y.qq.com,China
 HOST,aqqmusic.tc.qq.com,China
 
