@@ -1,194 +1,194 @@
 # > ABC
-HOST-SUFFIX,edgedatg.com,Outside
-HOST-SUFFIX,go.com,Outside
+HOST-SUFFIX,edgedatg.com,Global
+HOST-SUFFIX,go.com,Global
 
 # > Abema TV
-USER-AGENT,AbemaTV*,Outside
-HOST-SUFFIX,abema.io,Outside
-HOST-SUFFIX,abema.tv,Outside
-HOST-SUFFIX,akamaized.net,Outside
-HOST-SUFFIX,ameba.jp,Outside
-HOST-SUFFIX,hayabusa.io,Outside
+USER-AGENT,AbemaTV*,Global
+HOST-SUFFIX,abema.io,Global
+HOST-SUFFIX,abema.tv,Global
+HOST-SUFFIX,akamaized.net,Global
+HOST-SUFFIX,ameba.jp,Global
+HOST-SUFFIX,hayabusa.io,Global
 
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,Outside
-USER-AGENT,Prime%20Video*,Outside
-HOST-SUFFIX,aiv-cdn.net,Outside
-HOST-SUFFIX,amazonaws.co.uk,Outside
-HOST-SUFFIX,amazonaws.com,Outside
-HOST-SUFFIX,amazonvideo.com,Outside
-HOST-SUFFIX,llnwd.net,Outside
+USER-AGENT,InstantVideo.US*,Global
+USER-AGENT,Prime%20Video*,Global
+HOST-SUFFIX,aiv-cdn.net,Global
+HOST-SUFFIX,amazonaws.co.uk,Global
+HOST-SUFFIX,amazonaws.com,Global
+HOST-SUFFIX,amazonvideo.com,Global
+HOST-SUFFIX,llnwd.net,Global
 
 # > Apple TV
-HOST,np-edge.itunes.apple.com,Outside
-HOST,play-edge.itunes.apple.com,Outside
-HOST-SUFFIX,tv.apple.com,Outside
+HOST,np-edge.itunes.apple.com,Global
+HOST,play-edge.itunes.apple.com,Global
+HOST-SUFFIX,tv.apple.com,Global
 
 # > Bahamut
-USER-AGENT,Anime*,Outside
-HOST-SUFFIX,bahamut.com.tw,Outside
-HOST-SUFFIX,gamer.com.tw,Outside
-HOST-SUFFIX,hinet.net,Outside
+USER-AGENT,Anime*,Global
+HOST-SUFFIX,bahamut.com.tw,Global
+HOST-SUFFIX,gamer.com.tw,Global
+HOST-SUFFIX,hinet.net,Global
 
 # > BBC iPlayer
-USER-AGENT,BBCiPlayer*,Outside
-HOST-KEYWORD,bbcfmt,Outside
-HOST,aod-dash-uk-live.akamaized.net,Outside
-HOST,aod-hls-uk-live.akamaized.net,Outside
-HOST,vod-dash-uk-live.akamaized.net,Outside
-HOST,vod-thumb-uk-live.akamaized.net,Outside
-HOST-SUFFIX,bbc.co,Outside
-HOST-SUFFIX,bbc.co.uk,Outside
-HOST-SUFFIX,bbc.com,Outside
-HOST-SUFFIX,bbcfmt.hs.llnwd.net,Outside
-HOST-SUFFIX,bbci.co,Outside
-HOST-SUFFIX,bbci.co.uk,Outside
+USER-AGENT,BBCiPlayer*,Global
+HOST-KEYWORD,bbcfmt,Global
+HOST,aod-dash-uk-live.akamaized.net,Global
+HOST,aod-hls-uk-live.akamaized.net,Global
+HOST,vod-dash-uk-live.akamaized.net,Global
+HOST,vod-thumb-uk-live.akamaized.net,Global
+HOST-SUFFIX,bbc.co,Global
+HOST-SUFFIX,bbc.co.uk,Global
+HOST-SUFFIX,bbc.com,Global
+HOST-SUFFIX,bbcfmt.hs.llnwd.net,Global
+HOST-SUFFIX,bbci.co,Global
+HOST-SUFFIX,bbci.co.uk,Global
 
 # > DAZN
-HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,Outside
-HOST-SUFFIX,dazn.com,Outside
-HOST-SUFFIX,dazn-api.com,Outside
-HOST-SUFFIX,dazndn.com,Outside
-HOST-SUFFIX,indazn.com,Outside
-HOST-SUFFIX,intercom.io,Outside
+HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,Global
+HOST-SUFFIX,dazn.com,Global
+HOST-SUFFIX,dazn-api.com,Global
+HOST-SUFFIX,dazndn.com,Global
+HOST-SUFFIX,indazn.com,Global
+HOST-SUFFIX,intercom.io,Global
 
 # > Disney Plus
-USER-AGENT,Disney*,Outside
-HOST,cdn.registerdisney.go.com,Outside
-HOST,cdn.cdn.unid.go.com,Outside
-HOST-SUFFIX,bamgrid.com,Outside
-HOST-SUFFIX,braze.com,Outside
-HOST-SUFFIX,conviva.com,Outside
-HOST-SUFFIX,disney.demdex.net,Outside
-HOST-SUFFIX,disneyplus.com,Outside
-HOST-SUFFIX,disney-plus.net,Outside
-HOST-SUFFIX,dssott.com,Outside
-HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,Outside
+USER-AGENT,Disney*,Global
+HOST,cdn.registerdisney.go.com,Global
+HOST,cdn.cdn.unid.go.com,Global
+HOST-SUFFIX,bamgrid.com,Global
+HOST-SUFFIX,braze.com,Global
+HOST-SUFFIX,conviva.com,Global
+HOST-SUFFIX,disney.demdex.net,Global
+HOST-SUFFIX,disneyplus.com,Global
+HOST-SUFFIX,disney-plus.net,Global
+HOST-SUFFIX,dssott.com,Global
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,Global
 
 # > encoreTVB
-USER-AGENT,encoreTVB*,Outside
-HOST-SUFFIX,encoretvb.com,Outside
-HOST,content.jwplatform.com,Outside
-HOST,videos-f.jwpsrv.com,Outside
+USER-AGENT,encoreTVB*,Global
+HOST-SUFFIX,encoretvb.com,Global
+HOST,content.jwplatform.com,Global
+HOST,videos-f.jwpsrv.com,Global
 
 # > Fox Now
-USER-AGENT,FOX%20NOW*,Outside
-HOST-SUFFIX,fox.com,Outside
-HOST-SUFFIX,foxdcg.com,Outside
-HOST-SUFFIX,uplynk.com,Outside
+USER-AGENT,FOX%20NOW*,Global
+HOST-SUFFIX,fox.com,Global
+HOST-SUFFIX,foxdcg.com,Global
+HOST-SUFFIX,uplynk.com,Global
 
 # > Fox+ (HK|TW|SG)
-USER-AGENT,FOXPlus*,Outside
-HOST-SUFFIX,akamaized.net,Outside
-HOST-SUFFIX,foxplus.com,Outside
-HOST-SUFFIX,theplatform.com,Outside
+USER-AGENT,FOXPlus*,Global
+HOST-SUFFIX,akamaized.net,Global
+HOST-SUFFIX,foxplus.com,Global
+HOST-SUFFIX,theplatform.com,Global
 
 # > HBO NOW & HBO GO
-USER-AGENT,HBO%20NOW*,Outside
-HOST-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,Outside
-HOST-SUFFIX,hbo.com,Outside
-HOST-SUFFIX,hboasia.com,Outside
-HOST-SUFFIX,hbogo.com,Outside
-HOST-SUFFIX,hbogoasia.com,Outside
-HOST-SUFFIX,hbogoasia.hk,Outside
-HOST-SUFFIX,hbonow.com,Outside
-HOST-SUFFIX,hbomax.com,Outside
+USER-AGENT,HBO%20NOW*,Global
+HOST-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,Global
+HOST-SUFFIX,hbo.com,Global
+HOST-SUFFIX,hboasia.com,Global
+HOST-SUFFIX,hbogo.com,Global
+HOST-SUFFIX,hbogoasia.com,Global
+HOST-SUFFIX,hbogoasia.hk,Global
+HOST-SUFFIX,hbonow.com,Global
+HOST-SUFFIX,hbomax.com,Global
 
 # > Hulu(フールー)
-HOST-SUFFIX,happyon.jp,Outside
-HOST-SUFFIX,hulu.jp,Outside
+HOST-SUFFIX,happyon.jp,Global
+HOST-SUFFIX,hulu.jp,Global
 
 # > Hulu
-HOST-SUFFIX,hulu.com,Outside
-HOST-SUFFIX,huluim.com,Outside
-HOST-SUFFIX,hulustream.com,Outside
+HOST-SUFFIX,hulu.com,Global
+HOST-SUFFIX,huluim.com,Global
+HOST-SUFFIX,hulustream.com,Global
 
 # > Japonx
-HOST-KEYWORD,japonx,Outside
-HOST-KEYWORD,japronx,Outside
-HOST-SUFFIX,japonx.com,Outside
-HOST-SUFFIX,japonx.tv,Outside
-HOST-SUFFIX,japonx.net,Outside
-HOST-SUFFIX,japonx.vip,Outside
-HOST-SUFFIX,japronx.com,Outside
-HOST-SUFFIX,japronx.tv,Outside
-HOST-SUFFIX,japronx.net,Outside
-HOST-SUFFIX,japronx.vip,Outside
+HOST-KEYWORD,japonx,Global
+HOST-KEYWORD,japronx,Global
+HOST-SUFFIX,japonx.com,Global
+HOST-SUFFIX,japonx.tv,Global
+HOST-SUFFIX,japonx.net,Global
+HOST-SUFFIX,japonx.vip,Global
+HOST-SUFFIX,japronx.com,Global
+HOST-SUFFIX,japronx.tv,Global
+HOST-SUFFIX,japronx.net,Global
+HOST-SUFFIX,japronx.vip,Global
 
 # > JOOX
-USER-AGENT,WeMusic*,Outside
-USER-AGENT,JOOX*,Outside
-HOST-SUFFIX,joox.com,Outside
+USER-AGENT,WeMusic*,Global
+USER-AGENT,JOOX*,Global
+HOST-SUFFIX,joox.com,Global
 
 # > KKBOX
-HOST-SUFFIX,kkbox.com,Outside
-HOST-SUFFIX,kkbox.com.tw,Outside
-HOST-SUFFIX,kfs.io,Outside
+HOST-SUFFIX,kkbox.com,Global
+HOST-SUFFIX,kkbox.com.tw,Global
+HOST-SUFFIX,kfs.io,Global
 
 # > KKTV
-USER-AGENT,KKTV*,Outside
-USER-AGENT,com.kktv*,Outside
-HOST-SUFFIX,kktv.me,Outside
-HOST-SUFFIX,kktv.com.tw,Outside
-HOST,kktv-theater.kk.stream,Outside
+USER-AGENT,KKTV*,Global
+USER-AGENT,com.kktv*,Global
+HOST-SUFFIX,kktv.me,Global
+HOST-SUFFIX,kktv.com.tw,Global
+HOST,kktv-theater.kk.stream,Global
 
 # > Line TV
-USER-AGENT,LINE*,Outside
-HOST-SUFFIX,d3c7rimkq79yfu.cloudfront.net,Outside
-HOST-SUFFIX,linetv.tw,Outside
+USER-AGENT,LINE*,Global
+HOST-SUFFIX,d3c7rimkq79yfu.cloudfront.net,Global
+HOST-SUFFIX,linetv.tw,Global
 
 # > myTV_SUPER
-USER-AGENT,mytv*,Outside
-HOST-SUFFIX,mytvsuper.com,Outside
-HOST-SUFFIX,tvb.com,Outside
+USER-AGENT,mytv*,Global
+HOST-SUFFIX,mytvsuper.com,Global
+HOST-SUFFIX,tvb.com,Global
 
 # > Pandora
-HOST-SUFFIX,pandora.com,Outside
+HOST-SUFFIX,pandora.com,Global
 
 # > PBS
-USER-AGENT,PBS*,Outside
-HOST-SUFFIX,pbs.org,Outside
+USER-AGENT,PBS*,Global
+HOST-SUFFIX,pbs.org,Global
 
 # > SoundCloud
-USER-AGENT,SoundCloud*,Outside
-HOST-SUFFIX,sndcdn.com,Outside
-HOST-SUFFIX,soundcloud.com,Outside
+USER-AGENT,SoundCloud*,Global
+HOST-SUFFIX,sndcdn.com,Global
+HOST-SUFFIX,soundcloud.com,Global
 
 # > Spotify
-USER-AGENT,*Spotify*,Outside
-HOST-SUFFIX,pscdn.co,Outside
-HOST-SUFFIX,scdn.co,Outside
-HOST-SUFFIX,spoti.fi,Outside
-HOST-SUFFIX,spotify.com,Outside
-HOST-SUFFIX,spotifycdn.net,Outside
-HOST-SUFFIX,overcast.fm,Outside
-HOST-SUFFIX,anchor.fm,Outside
+USER-AGENT,*Spotify*,Global
+HOST-SUFFIX,pscdn.co,Global
+HOST-SUFFIX,scdn.co,Global
+HOST-SUFFIX,spoti.fi,Global
+HOST-SUFFIX,spotify.com,Global
+HOST-SUFFIX,spotifycdn.net,Global
+HOST-SUFFIX,overcast.fm,Global
+HOST-SUFFIX,anchor.fm,Global
 
 # > ViuTV
-USER-AGENT,ViuTV*,Outside
-HOST-SUFFIX,bootstrapcdn.com,Outside
-HOST-SUFFIX,cloudfront.net,Outside
-HOST-SUFFIX,cognito-identity.us-east-1.amazonaws.com,Outside
-HOST-SUFFIX,firebaseio.com,Outside
-HOST-SUFFIX,jwpcdn.com,Outside
-HOST-SUFFIX,jwplayer.com,Outside
-HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,Outside
-HOST-SUFFIX,nowe.com,Outside
-HOST-SUFFIX,viu.com,Outside
-HOST-SUFFIX,viu.tv,Outside
-HOST-SUFFIX,viu.now.com,Outside
+USER-AGENT,ViuTV*,Global
+HOST-SUFFIX,bootstrapcdn.com,Global
+HOST-SUFFIX,cloudfront.net,Global
+HOST-SUFFIX,cognito-identity.us-east-1.amazonaws.com,Global
+HOST-SUFFIX,firebaseio.com,Global
+HOST-SUFFIX,jwpcdn.com,Global
+HOST-SUFFIX,jwplayer.com,Global
+HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,Global
+HOST-SUFFIX,nowe.com,Global
+HOST-SUFFIX,viu.com,Global
+HOST-SUFFIX,viu.tv,Global
+HOST-SUFFIX,viu.now.com,Global
 
 # > Youtube Music
-USER-AGENT,*YouTubeMusic*,Outside
-USER-AGENT,*com.google.ios.youtubemusic*,Outside
+USER-AGENT,*YouTubeMusic*,Global
+USER-AGENT,*com.google.ios.youtubemusic*,Global
 
 # > Youtube
-USER-AGENT,*youtube*,Outside
-USER-AGENT,YouTube*,Outside
-HOST-KEYWORD,youtube,Outside
-HOST,yt3.ggpht.com,Outside
-HOST-SUFFIX,googlevideo.com,Outside
-HOST-SUFFIX,gvt2.com,Outside
-HOST-SUFFIX,youtu.be,Outside
-HOST,youtubei.googleapis.com,Outside
-HOST-SUFFIX,ytimg.com,Outside
+USER-AGENT,*youtube*,Global
+USER-AGENT,YouTube*,Global
+HOST-KEYWORD,youtube,Global
+HOST,yt3.ggpht.com,Global
+HOST-SUFFIX,googlevideo.com,Global
+HOST-SUFFIX,gvt2.com,Global
+HOST-SUFFIX,youtu.be,Global
+HOST,youtubei.googleapis.com,Global
+HOST-SUFFIX,ytimg.com,Global
